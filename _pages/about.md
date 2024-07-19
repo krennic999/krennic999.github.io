@@ -31,7 +31,9 @@ Hi,
 - *2022.02*: &nbsp;🎉🎉 A new paper released. 
 - *2022.02*: &nbsp;🎉🎉 Xiaoxiao Ma dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+
+
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/STAR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
