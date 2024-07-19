@@ -61,7 +61,7 @@ Hi,
 [**Project**](https://github.com/krennic999/MPI) <strong><span class='show_paper_citations' data='EE_KGzcAAAAJ:9yKSN-GCB0IC'></span></strong>
 - MPI is a zero-shot denoising pipeline designed for many types of noise degradations
 - Only around 10s takes for a MPI to denoise on single noisy image
-</div
+</div>
 </div>
 
 
