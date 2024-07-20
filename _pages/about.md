@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<br><br>
 # 👀 About Myself
 
 Hi,
@@ -29,15 +30,11 @@ Hi,
 
 📫 And I' m currently looking for collaborations, internship or Ph.D. position, feel free to contact me via email
 
-</div>
-</div>
-
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 A new paper released. 
 - *2022.02*: &nbsp;🎉🎉 Xiaoxiao Ma dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-
-
+<br><br>
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/STAR.png' alt="sym" width="100%"></div></div>
@@ -88,6 +85,7 @@ Zhixiang Wei*, Lin Chen*, Yi Jin*, **Xiaoxiao Ma**, Tianle Liu, Pengyang Ling, B
 - *2021.10* Xiaoxiao Ma dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Xiaoxiao Ma dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+<br><br>
 # 📖 Educations
 - *2022.09 - now*, University of Science and Technology of China, Anhui, Master candidate in Computer Vision
 - *2018.09 - 2022.06*, China Agricultural University, Beijing. B. Eng in Computer Science
