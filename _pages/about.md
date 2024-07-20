@@ -17,15 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👀 About Myself
+
 Hi,
 
 🌱 I’m Xiaoxiao Ma, 2nd-year graduate student in USTC
 
-👀 My research interest includes:
+📖 My research interest includes:
   - Image resotration, image enhancement
   - Generative models, text-to-image generation
 
 📫 And I' m currently looking for collaborations, internship or Ph.D. position, feel free to contact me via email
+
+</div>
+</div>
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 A new paper released. 
