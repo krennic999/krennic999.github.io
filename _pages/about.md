@@ -30,9 +30,10 @@ Hi,
 
 📫 And I' m currently looking for collaborations, internship or Ph.D. position, feel free to contact me via email
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 A new paper released. 
-- *2022.02*: &nbsp;🎉🎉 Xiaoxiao Ma dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2024.09*: &nbsp; As the author of [STAR](https://arxiv.org/abs/2406.10797), I was invited to give a talk at ByteDance.
+- *2024.06*: &nbsp; [STAR](https://arxiv.org/abs/2406.10797) released on Arxiv.
+
 
 <br><br>
 # 📝 Publications
@@ -80,10 +81,9 @@ Zhixiang Wei*, Lin Chen*, Yi Jin*, **Xiaoxiao Ma**, Tianle Liu, Pengyang Ling, B
 </div>
 </div>
 
-<!-- 
-# 🎖 Honors and Awards
-- *2021.10* Xiaoxiao Ma dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Xiaoxiao Ma dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+# 📝 Academic Service (Reviewer)
+- IEEE TPAMI
 
 <br><br>
 # 📖 Educations
