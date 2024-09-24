@@ -87,6 +87,12 @@ Zhixiang Wei*, Lin Chen*, Yi Jin*, **Xiaoxiao Ma**, Tianle Liu, Pengyang Ling, B
 # 📝 Academic Service (Reviewer)
 - IEEE TPAMI
 
+
+<br><br>
+# 🎖 Honors and Awards
+- 2022~2023 The First Prize Scholarship of USTC for twice
+
+
 <br><br>
 # 📖 Educations
 - *2022.09 - now*, University of Science and Technology of China, Anhui, Master candidate in Computer Vision
