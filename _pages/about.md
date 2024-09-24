@@ -30,9 +30,10 @@ Hi,
 
 📫 And I' m currently looking for collaborations, internship or Ph.D. position, feel free to contact me via email
 
+<br><br>
 # 🔥 News
 - *2024.09*: &nbsp; As the author of [STAR](https://arxiv.org/abs/2406.10797), I was invited to give a talk at ByteDance.
-- *2024.06*: &nbsp; [STAR](https://arxiv.org/abs/2406.10797) released on Arxiv.
+- *2024.06*: &nbsp; [STAR](https://arxiv.org/abs/2406.10797) was released on Arxiv.
 
 
 <br><br>
@@ -82,6 +83,7 @@ Zhixiang Wei*, Lin Chen*, Yi Jin*, **Xiaoxiao Ma**, Tianle Liu, Pengyang Ling, B
 </div>
 
 
+<br><br>
 # 📝 Academic Service (Reviewer)
 - IEEE TPAMI
 
