@@ -33,7 +33,7 @@ Hi,
 <br><br>
 # 🔥 News
 - *2024.09*: &nbsp; Delighted to announce that [MPI](https://arxiv.org/abs/2401.14966) was accepted by NeurIPS 2024!
-- *2024.09*: &nbsp;  I was invited to give a talk at ByteDance as the author of [STAR](https://arxiv.org/abs/2406.10797)!
+- *2024.09*: &nbsp;  I was invited to give a talk at ByteDance as the author of [STAR](https://arxiv.org/abs/2406.10797)! See slides [here](https://github.com/krennic999/krennic999.github.io/blob/main/files/star_pre_talk.pdf)
 - *2024.06*: &nbsp; [STAR](https://arxiv.org/abs/2406.10797) was released on Arxiv.
 
 
