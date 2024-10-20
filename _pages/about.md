@@ -91,7 +91,8 @@ Zhixiang Wei*, Lin Chen*, Yi Jin*, **Xiaoxiao Ma**, Tianle Liu, Pengyang Ling, B
 
 <br><br>
 # 🎖 Honors and Awards
-- 2022~2023 The First Prize Scholarship of USTC for twice
+- 2022~2024 The First Prize Scholarship of USTC for three continusous years
+- 2024 National Scholarship for Undergraduate Students
 
 
 <br><br>
