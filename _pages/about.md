@@ -22,13 +22,13 @@ redirect_from:
 
 Hi,
 
-🌱 I’m Xiaoxiao Ma, 2nd-year graduate student in USTC
+🌱 I’m Xiaoxiao Ma, a third-year graduate student at USTC. I am currently a research intern at Shanghai AI Laboratory, working under the supervision of [Dr. Peng Gao](https://scholar.google.com/citations?user=_go6DPsAAAAJ). And I will join [USTC-BIVLab](https://bivlab123.github.io/) supervised by [Prof. Feng Zhao](https://scholar.google.com/citations?user=r6CvuOUAAAAJ) in 2025!
 
 📖 My research interest includes:
-  - Image resotration, image enhancement
-  - Generative models, text-to-image generation
+  - Generative models, autoregressive models, text-conditioned image synthesis
+  - Image restoration, image enhancement
 
-📫 And I' m currently looking for collaborations, internship or Ph.D. position, feel free to contact me via email
+📫 Looking forward to any collaborations or internship positions, feel free to contact me via email
 
 <br><br>
 # 🔥 News
