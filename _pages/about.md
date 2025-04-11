@@ -22,10 +22,10 @@ redirect_from:
 
 Hi,
 
-🌱 I’m Xiaoxiao Ma, a third-year graduate student at USTC. I am currently a research intern at Shanghai AI Laboratory, will join [USTC-BIVLab](https://bivlab123.github.io/) supervised by [Prof. Feng Zhao](https://scholar.google.com/citations?user=r6CvuOUAAAAJ) in 2025!
+🌱 I’m Xiaoxiao Ma, a third-year graduate student at USTC. I am currently a research intern at Meituan, will join [USTC-BIVLab](https://bivlab123.github.io/) supervised by [Prof. Feng Zhao](https://scholar.google.com/citations?user=r6CvuOUAAAAJ) in 2025!
 
 📖 My research interest includes:
-  - Generative models, autoregressive models, text-conditioned image synthesis
+  - Generative models & image synthesis, autoregressive models, vision-language models
   - Image restoration, image enhancement
 
 📫 Looking forward to any collaborations or internship positions, feel free to contact me via email
@@ -83,9 +83,15 @@ Zhixiang Wei*, Lin Chen*, Yi Jin*, **Xiaoxiao Ma**, Tianle Liu, Pengyang Ling, B
 </div>
 </div>
 
+<br><br>
+# 💻 Experiences
+- *2025.04 - Persent*, Meituan, Beijing. 
+- *2024.12 - 2025.03*, Shanghai AI Laboratory, Shanghai.
+- *2024.04 - 2024.12*, Duxiaoman, Beijing.
 
 <br><br>
 # 📝 Academic Service (Reviewer)
+- NeurIPS 2025
 - IEEE TPAMI
 
 
@@ -104,7 +110,4 @@ Zhixiang Wei*, Lin Chen*, Yi Jin*, **Xiaoxiao Ma**, Tianle Liu, Pengyang Ling, B
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Xiaoxiao Ma dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Xiaoxiao Ma dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2021.03*, Xiaoxiao Ma dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
