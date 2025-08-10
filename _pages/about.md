@@ -49,7 +49,7 @@ Hi,
 [STAR: Scale-wise Text-to-image generation via Auto-Regressive representations](https://arxiv.org/abs/2406.10797)
 <iframe src="https://ghbtns.com/github-btn.html?user=krennic999&repo=STAR&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 
-**Xiaoxiao Ma***, Mohan Zhou*, Tao Liang, Yalong Bai, Tiejun Zhao, Huaian Chen, Yi Jin
+**Xiaoxiao Ma\***, Mohan Zhou\*, Tao Liang, Yalong Bai, et al.
 
 [**Project**](https://krennic999.github.io/STAR/) <strong><span class='show_paper_citations' data='EE_KGzcAAAAJ:UeHWp8X0CEIC'></span></strong>
 - STAR is a novel scale-wise text-to-image model that is effective and efficient in performance
@@ -65,7 +65,7 @@ Hi,
 [Masked Pre-trained Model Enables Universal Zero-shot Denoiser](https://arxiv.org/abs/2401.14966)
 <iframe src="https://ghbtns.com/github-btn.html?user=krennic999&repo=MPI&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 
-**Xiaoxiao Ma***, Zhixiang Wei*, Yi Jin, Pengyang Ling, et al.
+**Xiaoxiao Ma\***, Zhixiang Wei\*, Yi Jin, Pengyang Ling, et al.
 
 [**Project**](https://github.com/krennic999/MPI) <strong><span class='show_paper_citations' data='EE_KGzcAAAAJ:9yKSN-GCB0IC'></span></strong>
 - MPI is a zero-shot denoising pipeline designed for many types of noise degradations
@@ -82,7 +82,7 @@ Hi,
 [HQ-CLIP: Leveraging Large Vision-Language Models to Create High-Quality Image-Text Datasets and CLIP Models](https://arxiv.org/abs/2507.22431)
 <iframe src="https://ghbtns.com/github-btn.html?user=w1oves&repo=hqclip&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 
-Zhixiang Wei*, Guangting Wang*, **Xiaoxiao Ma**, et al.
+Zhixiang Wei\*, Guangting Wang\*, **Xiaoxiao Ma**, et al.
 
 [**Project**](https://zxwei.site/hqclip/) <strong><span class='show_paper_citations' data='EE_KGzcAAAAJ:YsMSGLbcyi4C'></span></strong>
 - A CLIP training framework trained on 1.3B bidirectional image–text pairs, combining bidirectional supervision and label classification, achieving SoTA zero-shot and retrieval performance.
@@ -97,7 +97,7 @@ Zhixiang Wei*, Guangting Wang*, **Xiaoxiao Ma**, et al.
 [Stronger, Fewer, \& Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation](https://arxiv.org/abs/2312.04265)
 <iframe src="https://ghbtns.com/github-btn.html?user=w1oves&repo=Rein&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 
-Zhixiang Wei*, Lin Chen*, Yi Jin*, **Xiaoxiao Ma**, et al.
+Zhixiang Wei\*, Lin Chen\*, Yi Jin\*, **Xiaoxiao Ma**, et al.
 
 [**Project**](https://github.com/w1oves/Rein) <strong><span class='show_paper_citations' data='EE_KGzcAAAAJ:2osOgNQ5qMEC'></span></strong>
 - Rein is a PEFT framework based on vision foundation models for domain generalized semantic segmentation (DGSS) with merely 1% trainable parameters
