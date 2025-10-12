@@ -148,7 +148,7 @@ Zhixiang Wei\*, Lin Chen\*, Yi Jin\*, **Xiaoxiao Ma**, et al.
 <br><br>
 # 📝 Academic Service (Reviewer)
 - ICLR 2026
-- NeurIPS 2025, 2026
+- NeurIPS 2025
 - IEEE TPAMI
 - IEEE JBHI
 
