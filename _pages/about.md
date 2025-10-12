@@ -32,6 +32,7 @@ Hi,
 
 <br><br>
 # 🔥 News
+- *2025.09*: &nbsp; Delighted to announce that [ARSample](https://neurips.cc/virtual/2025/poster/118537) was accepted by NeurIPS 2025!
 - *2025.06*: &nbsp; Delighted to announce that [HQ-CLIP](https://arxiv.org/abs/2507.22431) was accepted by ICCV 2025!
 - *2024.09*: &nbsp; Delighted to announce that [MPI](https://arxiv.org/abs/2401.14966) was accepted by NeurIPS 2024!
 - *2024.09*: &nbsp;  I was invited to give a talk at ByteDance as the author of [STAR](https://arxiv.org/abs/2406.10797)! See slides [here](https://github.com/krennic999/krennic999.github.io/blob/main/files/star_pre_talk.pdf)
@@ -54,6 +55,38 @@ Hi,
 [**Project**](https://krennic999.github.io/STAR/) <strong><span class='show_paper_citations' data='EE_KGzcAAAAJ:UeHWp8X0CEIC'></span></strong>
 - STAR is a novel scale-wise text-to-image model that is effective and efficient in performance
 - Notably, STAR shows efficiency by requiring 2.95s to generate 512×512 images (compared to 6.48s for PixArt-α)
+</div>
+</div>
+
+<!-- ----------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/ARsample.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Better & Faster Autoregressive Image Generation: From the Perspective of Entropy](https://neurips.cc/virtual/2025/poster/118537)
+<iframe src="https://ghbtns.com/github-btn.html?user=krennic999&repo=ARsample&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+
+**Xiaoxiao Ma**, Feng Zhao, Pengyang Ling, Haibo Qiu, et al.
+
+[**Project**](https://github.com/krennic999/ARsample) <strong><span class='show_paper_citations' data='EE_KGzcAAAAJ:ufrVoPGSRksC'></span></strong>
+- We revisit the sampling problem in autoregressive image generation and reveal the low and uneven information density of image tokens.
+- Based on this insight, we propose an entropy-informed decoding strategy that improves both generation quality and efficiency across diverse AR models and benchmarks.
+</div>
+</div>
+
+<!-- ----------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/STAGE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[STAGE: Stable and Generalizable GRPO for Autoregressive Image Generation](https://arxiv.org/abs/2509.25027)
+<iframe src="https://ghbtns.com/github-btn.html?user=krennic999&repo=STAGE&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+
+**Xiaoxiao Ma**, Haibo Qiu, Guohui Zhang, Zhixiong Zeng, et al.
+
+[**Project**](https://github.com/krennic999/STAGE) <strong><span class='show_paper_citations' data='EE_KGzcAAAAJ:ufrVoPGSRksC'></span></strong>
+- STAGE is the first system to study the stability and generalization of GRPO-based autoregressive visual generation.
+- Built upon Janus-Pro-7B, STAGE improves the GenEval score from 0.78 to 0.89 (≈14%) without compromising image quality, and its effectiveness generalizes well across benchmarks such as T2I-Compbench and ImageReward.
 </div>
 </div>
 
@@ -114,19 +147,22 @@ Zhixiang Wei\*, Lin Chen\*, Yi Jin\*, **Xiaoxiao Ma**, et al.
 
 <br><br>
 # 📝 Academic Service (Reviewer)
-- NeurIPS 2025
+- ICLR 2026
+- NeurIPS 2025, 2026
 - IEEE TPAMI
+- IEEE JBHI
 
 
 <br><br>
 # 🎖 Honors and Awards
-- 2022~2024 The First Prize Scholarship of USTC for three continusous years
+- 2022~2025 First Prize Scholarship of USTC for four continusous years
 - 2024 National Scholarship for Undergraduate Students
 
 
 <br><br>
 # 📖 Educations
-- *2022.09 - now*, University of Science and Technology of China, Anhui, Master candidate in Computer Vision
+- *2025.09 - now*, University of Science and Technology of China, Anhui, PhD candidate in Multimodal Learning
+- *2022.09 - 2025.06*, University of Science and Technology of China, Anhui, Master candidate in Computer Vision
 - *2018.09 - 2022.06*, China Agricultural University, Beijing. B. Eng in Computer Science
 
 <br><br>
