@@ -147,6 +147,7 @@ Zhixiang Wei\*, Lin Chen\*, Yi Jin\*, **Xiaoxiao Ma**, et al.
 
 <br><br>
 # 📝 Academic Service (Reviewer)
+- CVPR 2026
 - ICLR 2026
 - NeurIPS 2025
 - IEEE TPAMI
