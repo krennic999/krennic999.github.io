@@ -32,11 +32,13 @@ Hi,
 
 <br><br>
 # 🔥 News
+- *2026.02*: &nbsp; Thrilled to share that our co-authored paper [MaskFocus](https://arxiv.org/abs/2512.18766) has been accepted to CVPR 2026!
+- *2026.01*: &nbsp; Excited that our collaborative work [GCPO](https://arxiv.org/abs/2509.22485) was accepted to ICLR 2026!
 - *2025.09*: &nbsp; Delighted to announce that [ARSample](https://neurips.cc/virtual/2025/poster/118537) was accepted by NeurIPS 2025!
 - *2025.06*: &nbsp; Delighted to announce that [HQ-CLIP](https://arxiv.org/abs/2507.22431) was accepted by ICCV 2025!
 - *2024.09*: &nbsp; Delighted to announce that [MPI](https://arxiv.org/abs/2401.14966) was accepted by NeurIPS 2024!
 - *2024.09*: &nbsp;  I was invited to give a talk at ByteDance as the author of [STAR](https://arxiv.org/abs/2406.10797)! See slides [here](https://github.com/krennic999/krennic999.github.io/blob/main/files/star_pre_talk.pdf)
-- *2024.06*: &nbsp; [STAR](https://arxiv.org/abs/2406.10797) was released on Arxiv.
+- *2024.06*: &nbsp; [STAR](https://arxiv.org/abs/2406.10797) is now available on arXiv!
 
 
 <br><br>
@@ -141,18 +143,14 @@ Zhixiang Wei\*, Lin Chen\*, Yi Jin\*, **Xiaoxiao Ma**, et al.
 
 <br><br>
 # 💻 Experiences
-- *2025.04 - Persent*, Meituan, Beijing. 
-- *2024.12 - 2025.03*, Shanghai AI Laboratory, Shanghai.
-- *2024.04 - 2024.12*, Duxiaoman, Beijing.
+- *2025.04 - Persent*, Meituan LongCat Multimodal Foundation Group, Beijing. 
+- *2024.12 - 2025.03*, OpenGVLab, Shanghai AI Laboratory, Shanghai.
+- *2024.04 - 2024.12*, Du Xiaoman Technology, Beijing.
 
 <br><br>
 # 📝 Academic Service (Reviewer)
-- CVPR 2026
-- ICLR 2026
-- NeurIPS 2025
-- IEEE TPAMI
-- IEEE JBHI
-
+- *Conference Reviewer:* ECCV (2026), ICML (2026), CVPR (2026), ICLR (2026), NeurIPS(2025)
+- *Journal Reviewer:* IEEE TPAMI, IEEE JBHI
 
 <br><br>
 # 🎖 Honors and Awards
