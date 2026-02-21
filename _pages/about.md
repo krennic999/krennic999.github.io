@@ -149,7 +149,7 @@ Zhixiang Wei\*, Lin Chen\*, Yi Jin\*, **Xiaoxiao Ma**, et al.
 
 <br><br>
 # 📝 Academic Service (Reviewer)
-- *Conference Reviewer:* ECCV (2026), ICML (2026), CVPR (2026), ICLR (2026), NeurIPS(2025)
+- *Conference Reviewer:* ECCV (2026), ICML (2026), CVPR (2026), ICLR (2026), NeurIPS (2025)
 - *Journal Reviewer:* IEEE TPAMI, IEEE JBHI
 
 <br><br>
