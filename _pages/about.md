@@ -22,16 +22,18 @@ redirect_from:
 
 Hi,
 
-🌱 I’m Xiaoxiao Ma, a first-year PhD student at USTC, in [USTC-BIVLab](https://bivlab123.github.io/) supervised by [Prof. Feng Zhao](https://scholar.google.com/citations?user=r6CvuOUAAAAJ). I am currently a research intern at Meituan
+🌱 I’m Xiaoxiao Ma, a second-year PhD student at USTC, in [USTC-BIVLab](https://bivlab123.github.io/) supervised by [Prof. Feng Zhao](https://scholar.google.com/citations?user=r6CvuOUAAAAJ). I am currently a research intern at JD Explore Academy.
 
-📖 My research interest includes:
-  - Generative models & image synthesis, autoregressive models, vision-language models
-  - Image restoration, image enhancement
+📖 My research interests include:
+  - Multimodal learning and foundation models
+  - Visual generation, including image, video, and audio-visual generation
 
 📫 Looking forward to any collaborations or internship positions, feel free to contact me via email
 
 <br><br>
 # 🔥 News
+- *2026.07*: &nbsp; [Fast-ARDiff](https://arxiv.org/abs/2512.08537) was accepted to ECCV 2026 as a Spotlight!
+- *2026.07*: &nbsp; [MAR-GRPO](https://arxiv.org/abs/2604.06966) was accepted to ACM MM 2026!
 - *2026.02*: &nbsp; Thrilled to share that our co-authored paper [MaskFocus](https://arxiv.org/abs/2512.18766) has been accepted to CVPR 2026!
 - *2026.01*: &nbsp; Excited that our collaborative work [GCPO](https://arxiv.org/abs/2509.22485) was accepted to ICLR 2026!
 - *2025.09*: &nbsp; Delighted to announce that [ARSample](https://neurips.cc/virtual/2025/poster/118537) was accepted by NeurIPS 2025!
@@ -73,6 +75,22 @@ Hi,
 [**Project**](https://github.com/krennic999/ARsample) <strong><span class='show_paper_citations' data='EE_KGzcAAAAJ:ufrVoPGSRksC'></span></strong>
 - We revisit the sampling problem in autoregressive image generation and reveal the low and uneven information density of image tokens.
 - Based on this insight, we propose an entropy-informed decoding strategy that improves both generation quality and efficiency across diverse AR models and benchmarks.
+</div>
+</div>
+
+<!-- ----------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/MAR-GRPO.png' alt="MAR-GRPO teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MAR-GRPO: Stabilized GRPO for AR-diffusion Hybrid Image Generation](https://arxiv.org/abs/2604.06966)
+<iframe src="https://ghbtns.com/github-btn.html?user=AMAP-ML&repo=mar-grpo&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+
+**Xiaoxiao Ma**, Jiachen Lei, Tianfei Ren, Jie Huang, et al.
+
+[**Paper**](https://arxiv.org/abs/2604.06966) [**Code**](https://github.com/AMAP-ML/mar-grpo)
+- MAR-GRPO stabilizes reinforcement learning for masked autoregressive models by addressing diffusion-head-induced gradient noise.
+- Multi-trajectory expectation and uncertainty-aware token selection improve visual quality, structural consistency, and training stability.
 </div>
 </div>
 
@@ -142,15 +160,34 @@ Zhixiang Wei\*, Lin Chen\*, Yi Jin\*, **Xiaoxiao Ma**, et al.
 <!-- ----------------------------------------------------------- -->
 
 <br><br>
+# 🛠 Tech Reports
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026.08</div><img src='images/JoyAI-Echo.png' alt="JoyAI-Echo 1.5 teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[JoyAI-Echo 1.5: Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds](https://arxiv.org/abs/2608.23383)
+<iframe src="https://ghbtns.com/github-btn.html?user=jd-opensource&repo=JoyAI-Echo&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+
+**Core Contributor**
+
+[**Paper**](https://arxiv.org/abs/2608.23383) [**Project**](https://echo-team-joy-future-academy-jd.github.io/Echo-1.5-Page/) [**Code**](https://github.com/jd-opensource/JoyAI-Echo)
+- A long-horizon audio-visual generation system for persistent stories and interactive worlds.
+</div>
+</div>
+
+<!-- ----------------------------------------------------------- -->
+
+<br><br>
 # 💻 Experiences
-- *2025.04 - Persent*, Meituan LongCat Multimodal Foundation Group, Beijing. 
+- *2026.03 - Present*, JD Explore Academy, TGT Program Research Intern, Beijing.
+- *2025.04 - 2025.11*, Meituan LongCat Multimodal Foundation Group, Beijing.
 - *2024.12 - 2025.03*, OpenGVLab, Shanghai AI Laboratory, Shanghai.
 - *2024.04 - 2024.12*, Du Xiaoman Technology, Beijing.
 
 <br><br>
 # 📝 Academic Service (Reviewer)
-- *Conference Reviewer:* ECCV (2026), ICML (2026), CVPR (2026), ICLR (2026), NeurIPS (2025)
-- *Journal Reviewer:* IEEE TPAMI, IEEE JBHI
+- *Conference Reviewer:* AAAI (2027), ECCV (2026), ICML (2026), CVPR (2026), ICLR (2026), NeurIPS (2025, 2026)
+- *Journal Reviewer:* IEEE TPAMI, TMLR, IJCV
 
 <br><br>
 # 🎖 Honors and Awards
